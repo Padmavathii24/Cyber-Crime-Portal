@@ -1,0 +1,7 @@
+
+    CryptoTrade Platform
+    Transaction Hash: 0x123...abc
+    Amount: 0.5 BTC
+    Value: Rs. 100,000
+    Status: CONFIRMED
+    

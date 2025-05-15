@@ -1,0 +1,47 @@
+.law-page-container {
+    display: flex;
+    height: 100vh;
+    font-family: "Segoe UI", sans-serif;
+  }
+  
+  .law-sidebar {
+    width: 240px;
+    background-color: #2e5a88;
+    color: white;
+    padding: 20px;
+  }
+  
+  .law-sidebar h2 {
+    font-size: 22px;
+    margin-bottom: 20px;
+  }
+  
+  .law-sidebar ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .law-sidebar li {
+    margin: 12px 0;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 6px;
+    transition: background 0.2s ease;
+  }
+  
+  .law-sidebar li:hover {
+    background-color: #1f3f66;
+  }
+  
+  .law-main-content {
+    flex: 1;
+    padding: 30px;
+    background-color: #f4f7fb;
+    overflow-y: auto;
+  }
+  
+  .welcome-text {
+    font-size: 18px;
+    color: #333;
+  }
+  

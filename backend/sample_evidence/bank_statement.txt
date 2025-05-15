@@ -1,0 +1,8 @@
+
+    STATE BANK OF INDIA
+    Account Statement
+    Date: 2024-04-07
+    Transaction ID: TXN123456
+    Amount: Rs. 25,000
+    Status: DEBIT
+    
